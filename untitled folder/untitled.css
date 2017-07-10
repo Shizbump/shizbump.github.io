@@ -1,0 +1,15 @@
+
+* {
+              margin: 0 ;
+              padding : 0;
+              box-sizing: border-box;
+       }
+ .div1 {
+ 	width:100px;
+ 	height:100px;
+ 	background-color:blue ;
+ 	position:absolute;
+ 	top:50px;
+
+ }
+ .div2
